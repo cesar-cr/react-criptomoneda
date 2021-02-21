@@ -12,7 +12,7 @@
     "index.html": "/index.html",
     "static/css/main.955b2daa.chunk.css.map": "/static/css/main.955b2daa.chunk.css.map",
     "static/js/2.b98c35fa.chunk.js.LICENSE.txt": "/static/js/2.b98c35fa.chunk.js.LICENSE.txt",
-    "static/media/cryptomonedas.51f1d2ed.png": "/static/media/cryptomonedas.51f1d2ed.png"
+    "static/media/cryptomonedas.51f1d2ed.png": "./static/media/cryptomonedas.51f1d2ed.png"
   },
   "entrypoints": [
     "static/js/runtime-main.1c2a43f3.js",
