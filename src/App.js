@@ -73,12 +73,12 @@ function App() {
 
   return (
     <Contenedor>
-      <div>
+      {/* <div>
         <Imagen 
           src={imagen}
           alt='Imagen cripto'
           />
-      </div>
+      </div> */}
       <div>
         <Heading>Cotiza Criptomonedas al instante</Heading>
         <Formulario
